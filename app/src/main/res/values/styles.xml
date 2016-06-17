@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Translucent를 이용함으로써 사용자가 화면에 더 집중할 수 있다. -->
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar.TranslucentDecor">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
